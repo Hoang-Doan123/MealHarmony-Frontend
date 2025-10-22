@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nutritionFragment"
+        android:icon="@drawable/ic_nutrition"
+        android:title="@string/nav_nutrition" />
+
+    <item
+        android:id="@+id/alertFragment"
+        android:icon="@drawable/ic_alert"
+        android:title="@string/nav_alert" />
+
+    <item
+        android:id="@+id/restaurantFragment"
+        android:icon="@drawable/ic_area"
+        android:title="@string/nav_restaurant" />
+
+    <item
+        android:id="@+id/meFragment"
+        android:icon="@drawable/ic_me"
+        android:title="@string/nav_me" />
+</menu> 
