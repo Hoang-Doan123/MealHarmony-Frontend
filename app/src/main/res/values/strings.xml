@@ -1,3 +1,194 @@
 <resources>
     <string name="app_name">MealHarmony</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account">Don\'t have an account? </string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <!-- Onboarding - Body Data Information -->
+    <string name="onboarding_welcome">Welcome to MealHarmony</string>
+    <string name="onboarding_body_info">Body Data Information</string>
+    <string name="onboarding_gender">What\'s your gender?</string>
+    <string name="onboarding_male">Male</string>
+    <string name="onboarding_female">Female</string>
+    <string name="onboarding_body_goal">What\'s your body goal?</string>
+    <string name="onboarding_lose_weight">Lose Weight</string>
+    <string name="onboarding_gain_weight">Gain Weight</string>
+    <string name="onboarding_maintain">Maintain Weight</string>
+    <string name="onboarding_motivation">What motivates you to exercise and nutrition?</string>
+    <string name="onboarding_motivation_health">Improving Health</string>
+    <string name="onboarding_motivation_immune">Boosting Immune System</string>
+    <string name="onboarding_motivation_look">Look Better</string>
+    <string name="onboarding_motivation_strength">Building Strength and Endurance</string>
+    <string name="onboarding_motivation_libido">Boosting Libido</string>
+    <string name="onboarding_age">What\'s your age?</string>
+    <string name="onboarding_age_hint">Enter your age</string>
+    <string name="onboarding_height">What\'s your height?</string>
+    <string name="onboarding_height_hint">Enter your height (cm)</string>
+    <string name="onboarding_weight">What\'s your current weight?</string>
+    <string name="onboarding_weight_hint">Enter your weight (kg)</string>
+    <string name="onboarding_target_weight">What\'s your target weight?</string>
+    <string name="onboarding_weight_loss_percentage">Weight loss percentage</string>
+    <string name="onboarding_weight_gain_percentage">Weight gain percentage</string>
+    <string name="onboarding_estimated_time">Estimated time to reach goal</string>
+    <string name="onboarding_body_fat_current">What\'s your current body fat percentage?</string>
+    <string name="onboarding_body_fat_target">What\'s your target body fat percentage?</string>
+    <string name="onboarding_muscle_mass_current">What\'s your current muscle mass?</string>
+    <string name="onboarding_muscle_mass_target">What\'s your target muscle mass?</string>
+    <string name="onboarding_skip_optional">Skip (Optional)</string>
+    <string name="onboarding_activity_level">How intense do you do your physical activity?</string>
+    <string name="onboarding_activity_level_desc">This helps us personalize your calorie needs.</string>
+    <string name="onboarding_activity_sedentary">Sedentary (little or no exercise)</string>
+    <string name="onboarding_activity_light">Light (light exercise/sports 1–3 days/week)</string>
+    <string name="onboarding_activity_moderate">Moderate (moderate exercise/sports 3–5 days/week)</string>
+    <string name="onboarding_activity_active">Active (hard exercise/sports 6–7 days/week)</string>
+    <string name="onboarding_activity_very_active">Very Active (very hard exercise and physical job)</string>
+
+    <!-- Healthcare Information -->
+    <string name="healthcare_title">Healthcare Information</string>
+    <string name="healthcare_issues">Do you have any of the following health issues?</string>
+    <string name="healthcare_diabetes">Diabetes</string>
+    <string name="healthcare_heart">Heart Disease</string>
+    <string name="healthcare_blood_pressure">High Blood Pressure</string>
+    <string name="healthcare_other">Other (Please specify)</string>
+    <string name="healthcare_sleep">Sleep Problems</string>
+    <string name="healthcare_none">No Health Issues</string>
+    <string name="injuries_title">Do you have any injuries?</string>
+    <string name="injuries_shoulder">Shoulder</string>
+    <string name="injuries_back">Back</string>
+    <string name="injuries_waist">Waist</string>
+    <string name="injuries_wrist">Wrist</string>
+    <string name="injuries_knee">Knee</string>
+    <string name="injuries_ankle">Ankle</string>
+    <string name="injuries_neck">Neck</string>
+    <string name="injuries_none">No Injuries</string>
+    <string name="nutrition_title">Do you have any dietary restrictions?</string>
+    <string name="nutrition_vegetarian">Vegetarian</string>
+    <string name="nutrition_allergies">Allergies</string>
+    <string name="nutrition_medical">Medical Restrictions</string>
+    <string name="nutrition_none">No Restrictions</string>
+
+    <!-- Fitness Level -->
+    <string name="fitness_title">Fitness Level</string>
+    <string name="fitness_experience">How long have you been training?</string>
+    <string name="fitness_beginner">Beginner</string>
+    <string name="fitness_intermediate">Intermediate</string>
+    <string name="fitness_advanced">Advanced</string>
+    <string name="fitness_equipment">What equipment do you have access to?</string>
+    <string name="fitness_none">No Equipment</string>
+    <string name="fitness_basic">Basic Equipment</string>
+    <string name="fitness_gym">Full Gym Access</string>
+    <string name="fitness_days">Which days can you train?</string>
+    <string name="fitness_reminders">Enable Training Reminders</string>
+    <string name="fitness_goal_speed">How fast do you want to reach your goal?</string>
+    <string name="fitness_fast">As Fast as Possible</string>
+    <string name="fitness_balanced">Balanced Progress</string>
+    <string name="fitness_slow">Slow and Steady</string>
+    <string name="fitness_concerns">Do you have concerns about training or nutrition?</string>
+    <string name="fitness_concerns_style">I don\'t know which training style suits me</string>
+    <string name="fitness_concerns_intensity">I\'m unsure about the right training intensity</string>
+    <string name="fitness_concerns_none">No concerns</string>
+
+    <!-- Days -->
+    <string name="day_sunday">Sun</string>
+    <string name="day_monday">Mon</string>
+    <string name="day_tuesday">Tue</string>
+    <string name="day_wednesday">Wed</string>
+    <string name="day_thursday">Thu</string>
+    <string name="day_friday">Fri</string>
+    <string name="day_saturday">Sat</string>
+
+    <!-- Units -->
+    <string name="unit_years">years</string>
+    <string name="unit_cm">cm</string>
+    <string name="unit_m">m</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_cal">cal</string>
+    <string name="unit_kcal">kcal</string>
+    <string name="unit_percent">%</string>
+
+    <!-- Main Navigation -->
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_alert">Alert</string>
+    <string name="nav_restaurant">Restaurant</string>
+    <string name="nav_me">Me</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Common -->
+    <string name="continue_text">Continue</string>
+    <string name="skip">Skip</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="get_started">Get Started</string>
+
+    <!--Nutrition-->
+    <string name="today_meals">Today\'s Meals</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="mid_morning">Mid-morning</string>
+    <string name="lunch">Lunch</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="dinner">Dinner</string>
+    <string name="set_your_nutrition_goals">Set Your Nutrition Goals</string>
+    <string name="daily_calories">Daily Calories</string>
+    <string name="meal_plan_type">Meal Plan Type</string>
+    <string name="loading">Loading…</string>
+    <string name="meals_per_day">Meals Per Day</string>
+    <string name="_3_meals">3 Meals</string>
+    <string name="_4_meals_a">4 Meals (Breakfast, Mid‑morning, Lunch, Dinner)</string>
+    <string name="_4_meals_b">4 Meals (Breakfast, Lunch, Afternoon, Dinner)</string>
+    <string name="_5_meals">5 Meals</string>
+    <string name="include_snacks">Include Snacks</string>
+    <string name="dietary_restrictions">Dietary Restrictions</string>
+    <string name="calories_percentages_preferences">Calories Percentages Preferences</string>
+    <string name="food_preferences_e_g_mediterranean_asian_etc">Food Preferences (e.g., Mediterranean, Asian, etc.)</string>
+    <string name="allergies_e_g_nuts_shellfish_etc">Allergies (e.g., nuts, shellfish, etc.)</string>
+    <string name="nutrition_summary">Nutrition Summary</string>
+    <string name="macronutrients">Macronutrients</string>
+    <string name="calories_percentage">Calories Percentage</string>
+    <string name="targets_grams">Target Grams</string>
+    <string name="create_meal_plan">Create Meal Plan</string>
+
+    <!--Alert-->
+    <string name="meal_plan_today">Today\'s Meal Plan</string>
+    <string name="set_meal_reminder">Set Meal Reminder</string>
+
+    <!--Restaurant-->
+    <string name="restaurant_image">Restaurant Image</string>
+
+    <!--Me (User data)-->
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="notification">Notification</string>
+    <string name="weight">Weight</string>
+    <string name="edit_weight">Edit Weight</string>
+    <string name="calculator">Calculator</string>
+    <string name="logout">Logout</string>
+
+    <!--Network Debug-->
+    <string name="network_debug">Network Debug</string>
+    <string name="current_base_url">Current Base URL</string>
+    <string name="current_base_url_loading">Current Base URL: Loading…</string>
+    <string name="device_information">Device Information</string>
+    <string name="device_information_loading">Device Information: Loading…</string>
+    <string name="test_connection">Test Connection</string>
+    <string name="reset_to_auto_detect">Reset to Auto-Detect</string>
+    <string name="set_emulator">Set Emulator</string>
+    <string name="set_real_device">Set Real Device</string>
+    
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
