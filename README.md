@@ -1,4 +1,4 @@
-# Frontend of MealHarmony
+# MealHarmony
 **MealHarmony** is a mobile app that helps you plan your meals in a smart and personalized way. It creates daily and weekly meal schedules tailored to your needs, preferences, and dietary restrictions.
 
 # Key Features
