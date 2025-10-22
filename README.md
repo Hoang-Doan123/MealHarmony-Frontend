@@ -1,6 +1,8 @@
 # MealHarmony
 **MealHarmony** is a mobile app that helps you plan your meals in a smart and personalized way. It creates daily and weekly meal schedules tailored to your needs, preferences, and dietary restrictions.
 
+**[Backend service](https://github.com/Hoang-Doan123/MealHarmony-Backend):** built with Java & Spring Boot, providing APIs for nutrition calculation and meal-plan generation.
+
 # Key Features
 * Personalized meal plans based on total daily energy expenditure (TDEE).
 * Adjusts meals according to dietary preferences and allergies.
